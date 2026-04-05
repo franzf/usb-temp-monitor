@@ -4,7 +4,7 @@ A lightweight Windows desktop app designed for the [USBTemp](https://usbtemp.com
 
 Reads temperature from the DS18B20 sensor via the USB-to-serial adapter.
 
-![screenshot](https://github.com/user-attachments/assets/placeholder.png)
+![screenshot](screenshot.png)
 
 ## Features
 
